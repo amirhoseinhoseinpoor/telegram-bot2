@@ -1,0 +1,18 @@
+E:\projekt\telegrambot 2\telegrambot 2\bin\Debug\net6.0\telegrambot 2.exe
+E:\projekt\telegrambot 2\telegrambot 2\bin\Debug\net6.0\telegrambot 2.deps.json
+E:\projekt\telegrambot 2\telegrambot 2\bin\Debug\net6.0\telegrambot 2.runtimeconfig.json
+E:\projekt\telegrambot 2\telegrambot 2\bin\Debug\net6.0\telegrambot 2.dll
+E:\projekt\telegrambot 2\telegrambot 2\bin\Debug\net6.0\telegrambot 2.pdb
+E:\projekt\telegrambot 2\telegrambot 2\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\projekt\telegrambot 2\telegrambot 2\bin\Debug\net6.0\Telegram.Bot.dll
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\telegrambot 2.csproj.AssemblyReference.cache
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\telegrambot 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\telegrambot 2.AssemblyInfoInputs.cache
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\telegrambot 2.AssemblyInfo.cs
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\telegrambot 2.csproj.CoreCompileInputs.cache
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\telegrambot 2.csproj.CopyComplete
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\telegrambot 2.dll
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\refint\telegrambot 2.dll
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\telegrambot 2.pdb
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\telegrambot 2.genruntimeconfig.cache
+E:\projekt\telegrambot 2\telegrambot 2\obj\Debug\net6.0\ref\telegrambot 2.dll
